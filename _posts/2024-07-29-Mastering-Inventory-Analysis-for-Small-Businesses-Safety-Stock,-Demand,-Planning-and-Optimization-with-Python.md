@@ -1,3 +1,4 @@
+title: Inventory Analysis for Small Business
 # Inventory Analysis for Small Business
 
 Managing inventory effectively is crucial for the success of any small business. This blog post will cover key aspects of inventory analysis including safety stock, demand planning, and optimization. We'll use Python for our analysis and visualizations.
