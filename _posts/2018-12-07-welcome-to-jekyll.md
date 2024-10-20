@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: Welcome to Post Tutorial!!!
+subtitle: Use this post as basis for others.
+author: Carlos
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
