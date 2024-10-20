@@ -1,3 +1,11 @@
+---
+layout: post
+title: Inventory Analysis for Small Businesses Using Python
+#subtitle: Each post also has a subtitle
+categories: Logistic Analytics
+tags: [Analytics]
+date: 2024-07-29
+---
 
 # Inventory Analysis for Small Businesses Using Python
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Mastering Inventory Analysis for a Small Businesses"
+title: Mastering Inventory Analysis for a Small Businesses
 date: 2024-07-29
-categories: inventory analysis
+categories: Logistic Analytics
+tags: [Analytics]
 ---
 
 
