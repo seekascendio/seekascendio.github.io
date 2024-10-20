@@ -59,3 +59,4 @@ plt.xlabel('Time Period')
 plt.ylabel('Demand')
 plt.grid(True)
 plt.show()
+```
