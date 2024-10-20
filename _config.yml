@@ -157,12 +157,26 @@ yat:
 #   - tags.html
 #   - about.md
 
-# Page default value
+# Page default value if need the back comment the following
 defaults:
   home:
     heading: "Expert Data Analytics for Smarter Logistics Solutions"
     subheading: "Optimize Supply Chains, Boost Efficiency, and Reduce Costs with Tailored Analytics"
-    banner: "/assets/images/banners/trucks.png"
+    #banner: "/assets/images/banners/trucks.png"
+banner:
+  video: "/assets/images/banners/home_video.mp4"
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://bit.ly/3xTmdUP
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+#tags: jekyll theme yat
+#sidebar: []
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
