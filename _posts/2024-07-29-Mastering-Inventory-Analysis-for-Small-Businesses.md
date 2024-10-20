@@ -27,7 +27,7 @@ Safety stock is an additional quantity of an item held in the inventory to reduc
 
 Safety stock can be calculated using the following formula:
 
-\[ \text{Safety Stock} = Z \times \sigma_d \times \sqrt{L} \]
+$$\[ \text{Safety Stock} = Z \times \sigma_d \times \sqrt{L} \]$$
 
 where:
 - \( Z \) = Z-score (service level)
