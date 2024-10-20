@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Post Tutorial!!!
+title: Welcome Post Tutorial!!!
 subtitle: Use this post as basis for others.
 author: Carlos
 categories: jekyll
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: jekyll
 sidebar: []
 ---
 

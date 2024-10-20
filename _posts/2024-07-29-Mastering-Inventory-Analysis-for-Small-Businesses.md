@@ -34,6 +34,8 @@ where:
 - \( \sigma_d \) = standard deviation of demand
 - \( L \) = lead time
 
+{% highlight python wl linenos %}
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
