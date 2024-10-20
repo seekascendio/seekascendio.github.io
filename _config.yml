@@ -158,11 +158,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Expert Data Analytics for Smarter Logistics Solutions"
+    subheading: "Optimize Supply Chains, Boost Efficiency, and Reduce Costs with Tailored Analytics"
+    banner: "/assets/images/banners/trucks.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
